@@ -2,7 +2,7 @@
 
 A* algoritmasının bir ızgara üzerinde en kısa yolu nasıl bulduğunu adım adım gösteren, tamamen Python koduyla üretilmiş 1 dakikalık bir animasyon.
 
-![A* Yol Bulma tanıtımı](github_1280x720.mp4)
+![A* Yol Bulma tanıtımı](github_demo.gif)
 
 ## Amaç
 
